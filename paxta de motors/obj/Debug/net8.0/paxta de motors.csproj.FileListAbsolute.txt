@@ -1,0 +1,14 @@
+D:\Users\20241170150067\Desktop\paxta de motors\bin\Debug\net8.0\paxta de motors.exe
+D:\Users\20241170150067\Desktop\paxta de motors\bin\Debug\net8.0\paxta de motors.deps.json
+D:\Users\20241170150067\Desktop\paxta de motors\bin\Debug\net8.0\paxta de motors.runtimeconfig.json
+D:\Users\20241170150067\Desktop\paxta de motors\bin\Debug\net8.0\paxta de motors.dll
+D:\Users\20241170150067\Desktop\paxta de motors\bin\Debug\net8.0\paxta de motors.pdb
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.AssemblyInfoInputs.cache
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.AssemblyInfo.cs
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.csproj.CoreCompileInputs.cache
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.dll
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\refint\paxta de motors.dll
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.pdb
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\paxta de motors.genruntimeconfig.cache
+D:\Users\20241170150067\Desktop\paxta de motors\obj\Debug\net8.0\ref\paxta de motors.dll
